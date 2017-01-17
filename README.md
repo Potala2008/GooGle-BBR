@@ -1,7 +1,7 @@
 #                             GooGle TCP BBr网络加速脚本
 使用方法 
 
-    wget --no-check-certificate https://github.com/52fancy/GooGle-BBR/raw/master/BBR.sh && sh BBR.sh
+    wget --no-check-certificate https://github.com/potala2008/google-bbr/raw/master/install.sh && sh install.sh
 
 
 
