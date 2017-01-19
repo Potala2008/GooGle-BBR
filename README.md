@@ -1,16 +1,5 @@
-#                             GooGle TCP BBr网络加速脚本
-使用方法 
+#INSTALL
+wget https://potala2008.github.io/google-bbr/install.sh && sh install.sh
 
-    wget --no-check-certificate https://github.com/potala2008/google-bbr/raw/master/install.sh && sh install.sh
-
-
-
-之后重启服务器即可
-
-验证是否安装成功 
-
-    执行 lsmod | grep bbr
-   
-如果结果显示bbr便安装成功
-
-注意：不支持Ovz小鸡，不支持Ovz小鸡，不支持Ovz小鸡！！！
+#验证
+lsmod | grep bbr
